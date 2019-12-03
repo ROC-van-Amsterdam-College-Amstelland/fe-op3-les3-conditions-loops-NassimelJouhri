@@ -1,13 +1,12 @@
 //javascript code
-saldo=500;
-student=prompt("Hoeveel geld staat er op uw rekening")
-
-if (saldo >500) 
-{
-     alert("er is een bonus gestort");
-} else
-{
-     alert("uw salaris is aangekomen");
-
+var geld= 10; 
+ geld = prompt("Hoeveel geld staat er op uw rekening?")
+ 
+if (geld > 500) {
+    alert("Er is een bonus toegevoegd");
+    
+} else if (geld < 500) {
+    
+} else  {
+     alert("er is niks gestord");
 }
-
