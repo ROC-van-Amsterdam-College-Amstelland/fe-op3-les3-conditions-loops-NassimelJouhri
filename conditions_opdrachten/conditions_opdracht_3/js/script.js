@@ -8,5 +8,5 @@ if (geld > 500) {
 } else if (geld < 500) {
     
 } else  {
-     alert("er is niks gestord");
+     alert("er is niks gestort");
 }
