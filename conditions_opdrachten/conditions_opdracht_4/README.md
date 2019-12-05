@@ -8,4 +8,3 @@ B)  Toon het volgende op het scherm (via index.html): "De variabele myNumber hee
 Hint: text en een variabele kun je op de volgende manier aan elkaar koppelen: "text " + myNumber  (let ook op de spaties!).
 
 Commit en push de opdracht naar GitHub
-
